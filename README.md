@@ -1,3 +1,1 @@
-# jrg-renwu6
-
-_
+# newBlog
